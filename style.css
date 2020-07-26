@@ -1,0 +1,66 @@
+.inputText
+{
+    
+    border-radius: 30px;
+    padding: 5px;
+    background-color: #8D5524;
+    color: #ffffff;
+    /* /* position: relative; */
+     margin-bottom: 300px; 
+    
+}
+.addbtn1
+{
+    border-radius: 30px;
+    padding: 5px;
+    background-color: #8D5524;
+    color: #ffffff;
+    
+    
+}
+.listall
+{
+    border: 5px solid #8D5524 ;
+    color: red;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.heading1
+{
+    padding-top: 40px;
+    color: #8D5524;
+    font-size: 40px;
+    text-align: center;
+}
+.btn
+{
+    border-radius: 30px;
+    padding: 5px;
+    background-color: #8D5524;
+    color: #ffffff;
+    
+}
+
+.todochat
+{
+
+    border: 10px solid #CC0000;
+    width: 40%;
+    border-radius: 80px;
+    background-color: #ffffff;
+    /* margin-right: 200px;  */
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    
+     
+    height: 600px;
+     position: relative;
+    margin-left: 160px; 
+}
+body
+{
+    background-color: #8D5524;
+    
+}
